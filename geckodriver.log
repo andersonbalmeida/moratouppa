@@ -1,0 +1,250 @@
+1669753874433	geckodriver	INFO	Listening on 127.0.0.1:41393
+1669753875424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7iYny9"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669753877766	Marionette	INFO	Marionette enabled
+1669753877793	Marionette	INFO	Listening on port 37845
+Read port: 37845
+1669753878312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7iYny9/search.json.mozlz4", (void 0)))
+1669753941758	Marionette	INFO	Stopped listening on port 37845
+1669754184773	geckodriver	INFO	Listening on 127.0.0.1:47245
+1669754184792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilebHUslZ"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669754186454	Marionette	INFO	Marionette enabled
+1669754186468	Marionette	INFO	Listening on port 39235
+Read port: 39235
+1669754186704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebHUslZ/search.json.mozlz4", (void 0)))
+1669754285116	Marionette	INFO	Stopped listening on port 39235
+1669754363470	geckodriver	INFO	Listening on 127.0.0.1:51985
+1669754363488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUUtAEk"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669754365000	Marionette	INFO	Marionette enabled
+1669754365010	Marionette	INFO	Listening on port 39719
+Read port: 39719
+1669754365260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUUtAEk/search.json.mozlz4", (void 0)))
+1669754448184	Marionette	INFO	Stopped listening on port 39719
+1669754591318	geckodriver	INFO	Listening on 127.0.0.1:38479
+1669754591332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0KVlGg"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669754592806	Marionette	INFO	Marionette enabled
+1669754592815	Marionette	INFO	Listening on port 39975
+Read port: 39975
+1669754593056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0KVlGg/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1669754710326	Marionette	INFO	Stopped listening on port 39975
+1669754716722	geckodriver	INFO	Listening on 127.0.0.1:56299
+1669754717731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevOXlsA"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669754719550	Marionette	INFO	Marionette enabled
+1669754719564	Marionette	INFO	Listening on port 34081
+Read port: 34081
+1669754719855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevOXlsA/search.json.mozlz4", (void 0)))
+1669754763550	Marionette	INFO	Stopped listening on port 34081
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669754866793	geckodriver	INFO	Listening on 127.0.0.1:45765
+1669754866814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeuFK05"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669754868365	Marionette	INFO	Marionette enabled
+1669754868377	Marionette	INFO	Listening on port 36727
+Read port: 36727
+1669754868614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeuFK05/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1669754916732	Marionette	INFO	Stopped listening on port 36727
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669755397329	geckodriver	INFO	Listening on 127.0.0.1:55327
+1669755397344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepS9VtX"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669755398765	Marionette	INFO	Marionette enabled
+1669755398774	Marionette	INFO	Listening on port 46453
+Read port: 46453
+1669755399007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepS9VtX/search.json.mozlz4", (void 0)))
+1669755439258	Marionette	INFO	Stopped listening on port 46453
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669755567167	geckodriver	INFO	Listening on 127.0.0.1:53241
+1669755567184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXylB26"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669755568631	Marionette	INFO	Marionette enabled
+1669755568641	Marionette	INFO	Listening on port 33939
+Read port: 33939
+1669755568877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXylB26/search.json.mozlz4", (void 0)))
+1669755601318	Marionette	INFO	Stopped listening on port 33939
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669756389819	geckodriver	INFO	Listening on 127.0.0.1:42841
+1669756389840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile4CdBGf"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669756391314	Marionette	INFO	Marionette enabled
+1669756391323	Marionette	INFO	Listening on port 35449
+Read port: 35449
+1669756391565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4CdBGf/search.json.mozlz4", (void 0)))
+1669756410414	Marionette	INFO	Stopped listening on port 35449
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669756654074	geckodriver	INFO	Listening on 127.0.0.1:57735
+1669756654092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVDtTlS"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669756655548	Marionette	INFO	Marionette enabled
+1669756655558	Marionette	INFO	Listening on port 42397
+Read port: 42397
+1669756655792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVDtTlS/search.json.mozlz4", (void 0)))
+1669756679966	Marionette	INFO	Stopped listening on port 42397
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669757292771	geckodriver	INFO	Listening on 127.0.0.1:48847
+1669757292790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejEjF2Z"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669757294392	Marionette	INFO	Marionette enabled
+1669757294403	Marionette	INFO	Listening on port 40701
+Read port: 40701
+1669757294647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejEjF2Z/search.json.mozlz4", (void 0)))
+1669757336552	Marionette	INFO	Stopped listening on port 40701
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669757367972	geckodriver	INFO	Listening on 127.0.0.1:32831
+1669757368985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileH838sj"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669757370438	Marionette	INFO	Marionette enabled
+1669757370448	Marionette	INFO	Listening on port 35723
+Read port: 35723
+1669757370686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH838sj/search.json.mozlz4", (void 0)))
+1669757397303	Marionette	INFO	Stopped listening on port 35723
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669757470218	geckodriver	INFO	Listening on 127.0.0.1:58921
+1669757470236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiler4n4o7"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669757471731	Marionette	INFO	Marionette enabled
+1669757471740	Marionette	INFO	Listening on port 38345
+Read port: 38345
+1669757471976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler4n4o7/search.json.mozlz4", (void 0)))
+1669757499083	Marionette	INFO	Stopped listening on port 38345
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669757638085	geckodriver	INFO	Listening on 127.0.0.1:49405
+1669757638102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelfTYNw"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669757639544	Marionette	INFO	Marionette enabled
+1669757639553	Marionette	INFO	Listening on port 41499
+Read port: 41499
+1669757639794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelfTYNw/search.json.mozlz4", (void 0)))
+1669757662446	Marionette	INFO	Stopped listening on port 41499
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669757748106	geckodriver	INFO	Listening on 127.0.0.1:38183
+1669757748124	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7bVhUI"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669757749915	Marionette	INFO	Marionette enabled
+1669757749928	Marionette	INFO	Listening on port 42275
+Read port: 42275
+1669757750165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7bVhUI/search.json.mozlz4", (void 0)))
+1669757775854	Marionette	INFO	Stopped listening on port 42275
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669758846805	geckodriver	INFO	Listening on 127.0.0.1:35907
+1669758846817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileY5j98H"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669758848257	Marionette	INFO	Marionette enabled
+1669758848267	Marionette	INFO	Listening on port 45877
+Read port: 45877
+1669758848504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY5j98H/search.json.mozlz4", (void 0)))
+1669758897681	Marionette	INFO	Stopped listening on port 45877
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669853514406	geckodriver	INFO	Listening on 127.0.0.1:52075
+1669853515401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAk7Otd"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669853517690	Marionette	INFO	Marionette enabled
+1669853517715	Marionette	INFO	Listening on port 41307
+Read port: 41307
+1669853518256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAk7Otd/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1669853741590	geckodriver	INFO	Listening on 127.0.0.1:50757
+1669853741605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUhrCjZ"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669853743048	Marionette	INFO	Marionette enabled
+1669853743060	Marionette	INFO	Listening on port 37019
+Read port: 37019
+1669853743316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUhrCjZ/search.json.mozlz4", (void 0)))
+1669853766159	Marionette	INFO	Stopped listening on port 37019
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669853831174	geckodriver	INFO	Listening on 127.0.0.1:41607
+1669853831191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemWDzGU"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669853832624	Marionette	INFO	Marionette enabled
+1669853832634	Marionette	INFO	Listening on port 41519
+Read port: 41519
+1669853832884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemWDzGU/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 763))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 415))
+1669853883008	Marionette	INFO	Stopped listening on port 41519
+1669853954014	geckodriver	INFO	Listening on 127.0.0.1:34961
+1669853954035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiAvEDB"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669853955584	Marionette	INFO	Marionette enabled
+1669853955594	Marionette	INFO	Listening on port 41409
+Read port: 41409
+1669853955835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiAvEDB/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1669854012390	Marionette	INFO	Stopped listening on port 41409
+1669854510238	geckodriver	INFO	Listening on 127.0.0.1:48125
+1669854510256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevLOSAu"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669854511726	Marionette	INFO	Marionette enabled
+1669854511736	Marionette	INFO	Listening on port 34865
+Read port: 34865
+1669854511977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevLOSAu/search.json.mozlz4", (void 0)))
+1669854545056	Marionette	INFO	Stopped listening on port 34865
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669920229004	geckodriver	INFO	Listening on 127.0.0.1:36105
+1669920229956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNX8QN5"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669920232336	Marionette	INFO	Marionette enabled
+1669920232366	Marionette	INFO	Listening on port 38655
+Read port: 38655
+1669920232912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNX8QN5/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1669920517684	Marionette	INFO	Stopped listening on port 38655
+1669920792615	geckodriver	INFO	Listening on 127.0.0.1:53145
+1669920792632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileeD5UuD"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669920796116	Marionette	INFO	Marionette enabled
+1669920796139	Marionette	INFO	Listening on port 41769
+Read port: 41769
+1669920796705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeD5UuD/search.json.mozlz4", (void 0)))
+1669920839296	Marionette	INFO	Stopped listening on port 41769
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669920871164	geckodriver	INFO	Listening on 127.0.0.1:34147
+1669920872172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRtTMX7"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669920874978	Marionette	INFO	Marionette enabled
+1669920874990	Marionette	INFO	Listening on port 40921
+Read port: 40921
+1669920875579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRtTMX7/search.json.mozlz4", (void 0)))
+1669921169984	Marionette	INFO	Stopped listening on port 40921
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1669921334142	geckodriver	INFO	Listening on 127.0.0.1:52529
+1669921334160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile77P97l"
+[GFX1-]: glxtest: VA-API test failed: no supported VAAPI profile found.
+1669921337846	Marionette	INFO	Marionette enabled
+1669921337874	Marionette	INFO	Listening on port 45519
+Read port: 45519
+1669921338509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile77P97l/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1669921605541	Marionette	INFO	Stopped listening on port 45519
